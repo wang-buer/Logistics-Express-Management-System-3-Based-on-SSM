@@ -1,9 +1,6 @@
-# 物流快递管理系统3
-## 获取方式
+# 物流/快递管理系统3
 
-扫描下方，回复关键词  ： **快递3**，获取完整版源码
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -30,29 +27,30 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242105566.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202309242105566.jpg)
 
 ### 4.2 其它模块
 
-![物品信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242105171.jpg)
+![物品信息管理](https://www.codeshop.fun/Typora-Images/202309242105171.jpg)
 
-![入库信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106694.jpg)
+![入库信息管理](https://www.codeshop.fun/Typora-Images/202309242106694.jpg)
 
-![出库信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106366.jpg)
+![出库信息管理](https://www.codeshop.fun/Typora-Images/202309242106366.jpg)
 
-![顾客信息查看](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106835.jpg)
+![顾客信息查看](https://www.codeshop.fun/Typora-Images/202309242106835.jpg)
 
-![供应商管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106907.jpg)
+![供应商管理](https://www.codeshop.fun/Typora-Images/202309242106907.jpg)
 
-![仓库信息查看](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106203.jpg)
+![仓库信息查看](https://www.codeshop.fun/Typora-Images/202309242106203.jpg)
 
-![公告管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106475.jpg)
+![公告管理](https://www.codeshop.fun/Typora-Images/202309242106475.jpg)
 
-![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106545.jpg)
+### 4.3 文档目录
 
-## 5、视频演示
+![文档目录](https://www.codeshop.fun/Typora-Images/202309242106545.jpg)
 
-[点击播放视频，视频位于文章最后](输入链接)
+## 获取方式
 
+下方扫一扫关注后，后台回复关键词：**物流**，查看导入教程视频、sql脚本和源码等
 
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
